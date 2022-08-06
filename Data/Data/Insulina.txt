@@ -1,0 +1,750 @@
+
+PMID- 31768180
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220412
+IS  - 1680-5348 (Electronic)
+IS  - 1020-4989 (Linking)
+VI  - 43
+DP  - 2019
+TI  - [Insulin: prices, availability, and affordability in public and private Peruvian 
+      pharmaciesPreco, disponibilidade e acessibilidade a insulina em farmacias
+      publicas e privadas no Peru].
+PG  - e85
+LID - 10.26633/RPSP.2019.85 [doi]
+AB  - OBJECTIVE: Measure and compare the price, availability, and affordability of
+      insulin and metformin in public and private pharmacies in six regions of Peru.
+      METHODS: Cross-sectional study using the World Health Organization/Health Action 
+      International (WHO/HAI) revised methodology. Public and private pharmacies in six
+      regions of Peru were surveyed. Data were collected on availability and prices for
+      insulin (all types) and 850 mg metformin. Availability is expressed as
+      percentages and prices are reported in medians. Affordability is defined as the
+      number of days that a person must work at minimum wage to cover the cost of one
+      month of treatment. RESULTS: Availability in public pharmacies is 63.2% for
+      regular insulin and 68.4% for NPH (isophane) insulin, but differences in
+      availability were observed between levels of care and between regions. Private
+      pharmacies have a greater variety of insulin, but availability is less than 11%. 
+      The median price of human insulin was three to four times higher in private
+      pharmacies than in public pharmacies. In comparison, availability of metformin
+      was 89.5% in public pharmacies and 77.7% in private ones. Affordability in public
+      pharmacies for one month of treatment with human insulin or generic metformin is 
+      less than one day's wages. CONCLUSIONS: The price for human insulin and generic
+      metformin in public pharmacies is affordable. However, efforts are needed to
+      improve their availability in the different regions and levels of care.
+FAU - Tenorio-Mucha, Janeth
+AU  - Tenorio-Mucha J
+AD  - Centro de Excelencia en Enfermedades Cronicas, CRONICAS Universidad Peruana
+      Cayetano Heredia Lima Peru Centro de Excelencia en Enfermedades Cronicas,
+      CRONICAS, Universidad Peruana Cayetano Heredia, Lima, Peru.
+FAU - Lazo-Porras, Maria
+AU  - Lazo-Porras M
+AD  - Departamento de Medicina Tropical y Humanitaria Universidad de Ginebra y
+      Hospitales Universitarios de Ginebra Ginebra Suiza Departamento de Medicina
+      Tropical y Humanitaria, Universidad de Ginebra y Hospitales Universitarios de
+      Ginebra, Ginebra, Suiza.
+FAU - Hidalgo-Padilla, Liliana
+AU  - Hidalgo-Padilla L
+AD  - Centro de Excelencia en Enfermedades Cronicas, CRONICAS Universidad Peruana
+      Cayetano Heredia Lima Peru Centro de Excelencia en Enfermedades Cronicas,
+      CRONICAS, Universidad Peruana Cayetano Heredia, Lima, Peru.
+FAU - Beran, David
+AU  - Beran D
+AD  - Departamento de Medicina Tropical y Humanitaria Universidad de Ginebra y
+      Hospitales Universitarios de Ginebra Ginebra Suiza Departamento de Medicina
+      Tropical y Humanitaria, Universidad de Ginebra y Hospitales Universitarios de
+      Ginebra, Ginebra, Suiza.
+FAU - Ewen, Margaret
+AU  - Ewen M
+AD  - Accion Internacional para la Salud Accion Internacional para la Salud Amsterdam
+      Paises Bajos Accion Internacional para la Salud, Amsterdam, Paises Bajos.
+LA  - spa
+PT  - English Abstract
+PT  - Journal Article
+TT  - Precios, disponibilidad y asequibilidad de insulina en farmacias publicas y
+      privadas en Peru.
+DEP - 20191031
+PL  - United States
+TA  - Rev Panam Salud Publica
+JT  - Revista panamericana de salud publica = Pan American journal of public health
+JID - 9705400
+PMC - PMC6822689
+OTO - NOTNLM
+OT  - Insulin
+OT  - Peru
+OT  - access to essential medicines and health technologies
+OT  - drug price
+OT  - metformin
+COIS- Conflicto de intereses. Ninguno declarado por los autores.
+EDAT- 2019/11/27 06:00
+MHDA- 2019/11/27 06:01
+CRDT- 2019/11/27 06:00
+PHST- 2019/07/10 00:00 [received]
+PHST- 2019/09/20 00:00 [accepted]
+PHST- 2019/11/27 06:00 [entrez]
+PHST- 2019/11/27 06:00 [pubmed]
+PHST- 2019/11/27 06:01 [medline]
+AID - 10.26633/RPSP.2019.85 [doi]
+AID - RPSP.2019.85 [pii]
+PST - epublish
+SO  - Rev Panam Salud Publica. 2019 Oct 31;43:e85. doi: 10.26633/RPSP.2019.85.
+      eCollection 2019.
+
+PMID- 31695236
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200330
+LR  - 20200330
+IS  - 0016-3813 (Print)
+IS  - 0016-3813 (Linking)
+VI  - 155
+IP  - 5
+DP  - 2019
+TI  - El receptor soluble de insulina y el sindrome metabolico.
+PG  - 541-545
+LID - 10.24875/GMM.19005185 [doi]
+AB  - The metabolic syndrome describes a group of signs that increase the likelihood
+      for developing type 2 diabetes mellitus, cardiovascular diseases and some types
+      of cancer. The action of insulin depends on its binding to membrane receptors on 
+      its target cells. We wonder if blood insulin could travel bound to proteins and
+      if, in the presence of hyperinsulinemia, a soluble insulin receptor might be
+      generated. We used young adult Wistar rats (which have no predisposition to
+      obesity or diabetes), whose drinking water was added 20 % of sugar and that were 
+      fed a standard diet ad libitum for two and six months. They were compared with
+      control rats under the same conditions, but that had running water for
+      consumption. At two months, the rats developed central obesity, moderate
+      hypertension, high triglyceride levels, hyperinsulinemia, glucose intolerance and
+      insulin resistance, i.e. metabolic syndrome. Electrophoresis of the rats' plasma 
+      proteins was performed, followed by Western Blot (WB) for insulin and for the
+      outer portion of the insulin receptor. The bands corresponding to insulin and to 
+      the receptor external part were at the same molecular weight level, 25-fold
+      higher than that of free insulin. We demonstrated that insulin, both in control
+      animals and in those with hyperinsulinemia, travels bound to the receptor outer
+      portion (ectodomain), which we called soluble insulin receptor, and that is
+      released al higher amounts in response to plasma insulin increase; in rats with
+      metabolic syndrome and hyperinsulinemia, plasma levels are much higher than in
+      controls. Soluble insulin receptor increase in blood might be an early sign of
+      metabolic syndrome.
+CI  - Copyright: (c) 2019 Permanyer.
+FAU - Hiriart-Urdanivia, Marcia
+AU  - Hiriart-Urdanivia M
+AD  - Universidad Nacional Autonoma de Mexico, Instituto de Fisiologia Celular,
+      Departamento de Neurociencia Cognitiva, Ciudad de Mexico, Mexico.
+FAU - Sanchez-Soto, Carmen
+AU  - Sanchez-Soto C
+AD  - Universidad Nacional Autonoma de Mexico, Instituto de Fisiologia Celular,
+      Departamento de Neurociencia Cognitiva, Ciudad de Mexico, Mexico.
+FAU - Velasco, Myrian
+AU  - Velasco M
+AD  - Universidad Nacional Autonoma de Mexico, Instituto de Fisiologia Celular,
+      Departamento de Neurociencia Cognitiva, Ciudad de Mexico, Mexico.
+FAU - Sabido-Barrera, Jean
+AU  - Sabido-Barrera J
+AD  - Universidad Nacional Autonoma de Mexico, Instituto de Fisiologia Celular,
+      Departamento de Neurociencia Cognitiva, Ciudad de Mexico, Mexico.
+FAU - Ortiz-Huidobro, Rosa Isela
+AU  - Ortiz-Huidobro RI
+AD  - Universidad Nacional Autonoma de Mexico, Instituto de Fisiologia Celular,
+      Departamento de Neurociencia Cognitiva, Ciudad de Mexico, Mexico.
+LA  - eng
+PT  - Journal Article
+PL  - Mexico
+TA  - Gac Med Mex
+JT  - Gaceta medica de Mexico
+JID - 0010333
+RN  - 0 (Antigens, CD)
+RN  - 0 (Insulin)
+RN  - EC 2.7.10.1 (INSR protein, human)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Animals
+MH  - Antigens, CD/*blood/physiology
+MH  - Blotting, Western
+MH  - Diabetes Mellitus, Type 2/etiology
+MH  - Disease Models, Animal
+MH  - Electrophoresis
+MH  - Hyperinsulinism/blood
+MH  - Insulin/*blood/physiology
+MH  - Insulin Resistance
+MH  - Metabolic Syndrome/*blood/etiology
+MH  - Rats
+MH  - Rats, Wistar
+MH  - Receptor, Insulin/*blood/physiology
+OTO - NOTNLM
+OT  - Hiperinsulinemia
+OT  - Hyperinsulinemia
+OT  - Insulin resistance
+OT  - Receptor soluble de insulina
+OT  - Resistencia a la insulina
+OT  - Soluble insulin receptor
+EDAT- 2019/11/07 06:00
+MHDA- 2020/03/31 06:00
+CRDT- 2019/11/08 06:00
+PHST- 2019/11/08 06:00 [entrez]
+PHST- 2019/11/07 06:00 [pubmed]
+PHST- 2020/03/31 06:00 [medline]
+AID - j155/5/541 [pii]
+AID - 10.24875/GMM.19005185 [doi]
+PST - ppublish
+SO  - Gac Med Mex. 2019;155(5):541-545. doi: 10.24875/GMM.19005185.
+
+PMID- 31093264
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220411
+IS  - 1680-5348 (Electronic)
+IS  - 1020-4989 (Linking)
+VI  - 43
+DP  - 2019
+TI  - [Consumption of red and processed meat, insulin resistance, and diabetes in the
+      Brazilian Longitudinal Study of Adult Health (ELSA-Brasil)Consumo de carnes rojas
+      y de carne procesada, resistencia a la insulina y diabetes en el estudio
+      longitudinal de salud del adulto (ELSA-Brasil)].
+PG  - e40
+LID - 10.26633/RPSP.2019.40 [doi]
+AB  - OBJECTIVE: To investigate the association between red and processed meat
+      consumption and the occurrence of new cases of insulin resistance (IR) and
+      diabetes mellitus (DM) in participants of the Brazilian Longitudinal Study of
+      Adult Health (ELSA-Brasil). METHOD: This cohort study included 15 105 civil
+      servants (age: 35-74 years). Biochemical, anthropometric, and socioeconomic data,
+      as well as lifestyle characteristics, were collected at baseline (2008-2010) and 
+      wave 2 (2012-2014). Meat consumption (g/day) was estimated using a food frequency
+      questionnaire. To categorize low, medium, and high consumption, independent
+      variables were divided into tertiles. DM was diagnosed as fasting glucose >/= 126
+      mg/dL, postload glucose >/= 200 mg/dL, or glycated hemoglobin >/= 6.5. IR was
+      determined by HOMA-IR with cutoff points based on the sample's 75th percentile.
+      RESULTS: Men and participants with lower income and schooling reported higher
+      consumption of red and processed meat. High consumption of processed meat
+      (highest tertile, > 27.1 g/day) was associated with new cases of IR in men (OR = 
+      1.68; 95%CI: 1.31-2.16) and women (OR = 1.23; 95%CI: 1.00-1>52). High consumption
+      of red meat increased by 40% (95%CI: 1.04-1.96) the likelihood of new cases of DM
+      in men. CONCLUSIONS: High consumption of red/processed meat negatively impacted
+      the health of participants. Moderate consumption of meats may be recommended for 
+      the general population and for prevention of DM.
+FAU - Aprelini, Carla Moronari de Oliveira
+AU  - Aprelini CMO
+AD  - Programa de Pos-Graduacao em Saude Coletiva Programa de Pos-Graduacao em Saude
+      Coletiva Universidade Federal do Espirito Santo VitoriaES Brasil Universidade
+      Federal do Espirito Santo, Programa de Pos-Graduacao em Saude Coletiva, Vitoria
+      (ES), Brasil.
+FAU - Luft, Vivian Cristine
+AU  - Luft VC
+AD  - Programa de Pos-Graduacao em Epidemiologia Programa de Pos-Graduacao em
+      Epidemiologia Universidade Federal do Rio Grande do Sul (UFRGS) Porto AlegreRS
+      Brasil Universidade Federal do Rio Grande do Sul (UFRGS), Programa de
+      Pos-Graduacao em Epidemiologia, Porto Alegre (RS), Brasil.
+FAU - Melendez, Gustavo Velasquez
+AU  - Melendez GV
+AD  - Escola de Enfermagem Escola de Enfermagem Universidade Federal de Minas Gerais
+      (UFMG) Belo HorizonteMG Brasil Universidade Federal de Minas Gerais (UFMG),
+      Escola de Enfermagem, Belo Horizonte (MG), Brasil.
+FAU - Schmidt, Maria Ines
+AU  - Schmidt MI
+AD  - Programa de Pos-Graduacao em Epidemiologia Programa de Pos-Graduacao em
+      Epidemiologia Universidade Federal do Rio Grande do Sul (UFRGS) Porto AlegreRS
+      Brasil Universidade Federal do Rio Grande do Sul (UFRGS), Programa de
+      Pos-Graduacao em Epidemiologia, Porto Alegre (RS), Brasil.
+FAU - Mill, Jose Geraldo
+AU  - Mill JG
+AD  - Programa de Pos-Graduacao em Saude Coletiva Programa de Pos-Graduacao em Saude
+      Coletiva Universidade Federal do Espirito Santo VitoriaES Brasil Universidade
+      Federal do Espirito Santo, Programa de Pos-Graduacao em Saude Coletiva, Vitoria
+      (ES), Brasil.
+FAU - Molina, Maria Del Carmen Bisi
+AU  - Molina MDCB
+AD  - Programa de Pos-Graduacao em Saude Coletiva Programa de Pos-Graduacao em Saude
+      Coletiva Universidade Federal do Espirito Santo VitoriaES Brasil Universidade
+      Federal do Espirito Santo, Programa de Pos-Graduacao em Saude Coletiva, Vitoria
+      (ES), Brasil.
+LA  - por
+PT  - English Abstract
+PT  - Journal Article
+TT  - Consumo de carne vermelha e processada, resistencia insulinica e diabetes no
+      Estudo Longitudinal de Saude do Adulto (ELSA-Brasil).
+DEP - 20190503
+PL  - United States
+TA  - Rev Panam Salud Publica
+JT  - Revista panamericana de salud publica = Pan American journal of public health
+JID - 9705400
+PMC - PMC6499085
+OTO - NOTNLM
+OT  - Brazil
+OT  - Red meat
+OT  - diabetes mellitus
+OT  - insulin resistance
+OT  - meat products
+COIS- Conflito de interesses. Nada declarado pelos autores.
+EDAT- 2019/05/17 06:00
+MHDA- 2019/05/17 06:01
+CRDT- 2019/05/17 06:00
+PHST- 2018/07/21 00:00 [received]
+PHST- 2019/02/25 00:00 [accepted]
+PHST- 2019/05/17 06:00 [entrez]
+PHST- 2019/05/17 06:00 [pubmed]
+PHST- 2019/05/17 06:01 [medline]
+AID - 10.26633/RPSP.2019.40 [doi]
+AID - RPSP.2019.40 [pii]
+PST - epublish
+SO  - Rev Panam Salud Publica. 2019 May 3;43:e40. doi: 10.26633/RPSP.2019.40.
+      eCollection 2019.
+
+PMID- 31087451
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200413
+LR  - 20200413
+IS  - 1464-5491 (Electronic)
+IS  - 0742-3071 (Linking)
+VI  - 36
+IP  - 8
+DP  - 2019 Aug
+TI  - Assessment of Alimentacion Normal con Ajuste de Insulina (ANAIS), a Spanish
+      version of the DAFNE programme, in people with Type 1 diabetes: a randomized
+      controlled parallel trial.
+PG  - 1037-1045
+LID - 10.1111/dme.13984 [doi]
+AB  - AIM: To evaluate the effects of Alimentacion Normal con Ajuste de Insulina
+      (ANAIS), a group-based, therapeutic education programme for Type 1 diabetes based
+      on a flexible insulin regimen adjusted to the individual's food intake. METHODS: 
+      Participants with Type 1 diabetes and HbA1c levels of 53-86 mmol/mol (7-10%) were
+      recruited from outpatient clinics at a tertiary care centre. They were randomized
+      (using opaque, sealed envelopes, with a 2:1 treatment allocation ratio) to attend
+      the training course immediately (immediate ANAIS; intervention group) or a year
+      later (delayed ANAIS; control group). The main outcome was HbA1c level at 1 year.
+      Secondary outcomes included lipid levels, weight, hypoglycaemic events, insulin
+      dose, treatment satisfaction, self-perceived dietary freedom, quality of life and
+      participant-defined goals. RESULTS: A total of 48 participants were assigned to
+      the intervention group and 32 to the control group. Twelve months after
+      completing the training, adjusted HbA1c was not significantly different in the
+      intervention group [64 +/- 1.3 vs 68 +/- 1.6 mmol/mol (8.0 +/-0.1% vs 8.4
+      +/-0.1%); P=0.081]. Treatment satisfaction was significantly higher in the
+      intervention group, but no differences were found in hypoglycaemic events,
+      weight, insulin dose or changes in dietary freedom. At 1 year after the
+      intervention, 72% of the participants (vs 33% in the control group; P=0.046)
+      reported exceeding their expectations regarding achievement of their main
+      personal goal. CONCLUSION: Promoting dietary freedom and empowering people with
+      Type 1 diabetes through structured education programmes, such as ANAIS, improves 
+      treatment satisfaction and self-defined goals. No significant improvement in
+      HbA1c level was achieved.
+CI  - (c) 2019 Diabetes UK.
+FAU - Sanchez-Hernandez, R M
+AU  - Sanchez-Hernandez RM
+AD  - Department of Endocrinology and Nutrition, University Hospital Insular
+      Materno-Infantil, Las Palmas de Gran Canaria, Spain.
+AD  - Institute of Biomedical and Health Research (IUIBS). University of Las Palmas de 
+      Gran Canaria (ULPGC), Las Palmas de Gran Canaria, Spain.
+FAU - Alvarado-Martel, D
+AU  - Alvarado-Martel D
+AUID- ORCID: 0000-0003-4952-4115
+AD  - Department of Endocrinology and Nutrition, University Hospital Insular
+      Materno-Infantil, Las Palmas de Gran Canaria, Spain.
+AD  - Institute of Biomedical and Health Research (IUIBS). University of Las Palmas de 
+      Gran Canaria (ULPGC), Las Palmas de Gran Canaria, Spain.
+FAU - Lopez-Plasencia, Y
+AU  - Lopez-Plasencia Y
+AD  - Department of Endocrinology and Nutrition, University Hospital Insular
+      Materno-Infantil, Las Palmas de Gran Canaria, Spain.
+AD  - Institute of Biomedical and Health Research (IUIBS). University of Las Palmas de 
+      Gran Canaria (ULPGC), Las Palmas de Gran Canaria, Spain.
+FAU - Carrillo-Dominguez, A
+AU  - Carrillo-Dominguez A
+AD  - Department of Endocrinology and Nutrition, University Hospital Insular
+      Materno-Infantil, Las Palmas de Gran Canaria, Spain.
+AD  - Institute of Biomedical and Health Research (IUIBS). University of Las Palmas de 
+      Gran Canaria (ULPGC), Las Palmas de Gran Canaria, Spain.
+FAU - Jimenez-Rodriguez, A
+AU  - Jimenez-Rodriguez A
+AD  - Department of Endocrinology and Nutrition, University Hospital Insular
+      Materno-Infantil, Las Palmas de Gran Canaria, Spain.
+FAU - Rodriguez-Cordero, J
+AU  - Rodriguez-Cordero J
+AD  - Department of Endocrinology and Nutrition, University Hospital Insular
+      Materno-Infantil, Las Palmas de Gran Canaria, Spain.
+FAU - Vera-Elzo, T
+AU  - Vera-Elzo T
+AD  - Diabetes Association of Gran Canaria, Las Palmas de Gran Canaria, Spain.
+FAU - Santana Del Pino, A
+AU  - Santana Del Pino A
+AD  - Department of Mathematics and Statistics, University of Las Palmas de Gran
+      Canaria, Las Palmas de Gran Canaria, Spain.
+FAU - Novoa-Mogollon, F J
+AU  - Novoa-Mogollon FJ
+AD  - Department of Endocrinology and Nutrition, University Hospital Insular
+      Materno-Infantil, Las Palmas de Gran Canaria, Spain.
+AD  - Institute of Biomedical and Health Research (IUIBS). University of Las Palmas de 
+      Gran Canaria (ULPGC), Las Palmas de Gran Canaria, Spain.
+FAU - Wagner, A M
+AU  - Wagner AM
+AUID- ORCID: 0000-0002-7663-9308
+AD  - Department of Endocrinology and Nutrition, University Hospital Insular
+      Materno-Infantil, Las Palmas de Gran Canaria, Spain.
+AD  - Institute of Biomedical and Health Research (IUIBS). University of Las Palmas de 
+      Gran Canaria (ULPGC), Las Palmas de Gran Canaria, Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190613
+PL  - England
+TA  - Diabet Med
+JT  - Diabetic medicine : a journal of the British Diabetic Association
+JID - 8500858
+RN  - 0 (Glycated Hemoglobin A)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Insulin)
+SB  - IM
+MH  - Adult
+MH  - Body Weight/physiology
+MH  - Clinical Protocols
+MH  - Diabetes Mellitus, Type 1/blood/*therapy
+MH  - Energy Intake
+MH  - Female
+MH  - Glycated Hemoglobin A/metabolism
+MH  - Humans
+MH  - Hypoglycemic Agents/therapeutic use
+MH  - Insulin/therapeutic use
+MH  - Male
+MH  - Patient Education as Topic/*methods
+MH  - Psychotherapy/*methods
+MH  - Treatment Outcome
+EDAT- 2019/05/16 06:00
+MHDA- 2020/04/14 06:00
+CRDT- 2019/05/16 06:00
+PHST- 2019/05/10 00:00 [accepted]
+PHST- 2019/05/16 06:00 [pubmed]
+PHST- 2020/04/14 06:00 [medline]
+PHST- 2019/05/16 06:00 [entrez]
+AID - 10.1111/dme.13984 [doi]
+PST - ppublish
+SO  - Diabet Med. 2019 Aug;36(8):1037-1045. doi: 10.1111/dme.13984. Epub 2019 Jun 13.
+
+PMID- 31056606
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191107
+LR  - 20220408
+IS  - 0016-3813 (Print)
+IS  - 0016-3813 (Linking)
+VI  - 155
+IP  - 2
+DP  - 2019
+TI  - Inercia clinica en el tratamiento con insulina en el primer nivel de atencion.
+PG  - 156-161
+LID - 10.24875/GMM.19004582 [doi]
+AB  - INTRODUCTION: Refusal of physicians to prescribe insulin to their patients has
+      been scarcely evaluated; the delay in treatment intensification hinders adequate 
+      and quality care. OBJECTIVE: To identify the perception of primary care
+      physicians about barriers to initiate insulin treatment in patients with
+      diabetes. METHOD: Using the Smith Index and multivariate analysis, the relevance 
+      and grouping of concepts related to barriers to insulin prescription were
+      assessed in 81 family doctors. RESULTS: Only 35.8% of physicians showed
+      confidence for prescribing insulin; almost half of them rated treatment
+      intensification between moderately and little important (39.5% and 6.2%).
+      Barriers were related to the physician (39.5%), the patient (37%), insulin
+      treatment (11.1%) and the institution (6.2%); 6.2 % of physicians did not
+      perceive any barrier. The barriers were grouped in 5 factors that explained
+      62.48% of the variance: patient cultural level, lack of medical skills, fear of
+      adverse events, insecurity and lack of training. CONCLUSION: Clinical inertia was
+      not the result of a complex medical condition or patient comorbidities, but of
+      doctor's perception and confidence in his/her clinical and communication skills.
+CI  - Copyright: (c) 2019 SecretarIa de Salud.
+FAU - Vazquez, Felipe
+AU  - Vazquez F
+AD  - Secretaria de Salud, Servicios de Atencion Psiquiatrica. Ciudad de Mexico,
+      Mexico. Ciudad de Mexico, Mexico.
+FAU - Lavielle, Pilar
+AU  - Lavielle P
+AD  - Instituto Mexicano del Seguro Social, Centro Medico Nacional Siglo XXI, Hospital 
+      de Especialidades, Unidad de Investigacion en Epidemiologia Clinica. Ciudad de
+      Mexico, Mexico.
+FAU - Gomez-Diaz, Rita
+AU  - Gomez-Diaz R
+AD  - Instituto Mexicano del Seguro Social, Centro Medico Nacional Siglo XXI, Hospital 
+      de Especialidades, Unidad de Investigacion en Epidemiologia Clinica. Ciudad de
+      Mexico, Mexico.
+FAU - Wacher, Niels
+AU  - Wacher N
+AD  - Instituto Mexicano del Seguro Social, Centro Medico Nacional Siglo XXI, Hospital 
+      de Especialidades, Unidad de Investigacion en Epidemiologia Clinica. Ciudad de
+      Mexico, Mexico.
+LA  - eng
+PT  - Journal Article
+PL  - Mexico
+TA  - Gac Med Mex
+JT  - Gaceta medica de Mexico
+JID - 0010333
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Insulin)
+SB  - IM
+MH  - Attitude of Health Personnel
+MH  - Clinical Competence
+MH  - Communication
+MH  - Diabetes Mellitus, Type 2/drug therapy
+MH  - Female
+MH  - Humans
+MH  - Hypoglycemic Agents/*administration & dosage
+MH  - Insulin/*administration & dosage
+MH  - Male
+MH  - Middle Aged
+MH  - Physicians, Primary Care/*statistics & numerical data
+MH  - Practice Patterns, Physicians'/*statistics & numerical data
+MH  - Quality of Health Care
+OTO - NOTNLM
+OT  - Atencion primaria
+OT  - Barreras
+OT  - Barriers
+OT  - Clinical inertia
+OT  - Inercia clinica
+OT  - Insulin treatment
+OT  - Primary care
+OT  - Tratamiento con insulina
+EDAT- 2019/05/06 06:00
+MHDA- 2019/11/08 06:00
+CRDT- 2019/05/07 06:00
+PHST- 2019/05/07 06:00 [entrez]
+PHST- 2019/05/06 06:00 [pubmed]
+PHST- 2019/11/08 06:00 [medline]
+AID - j155/2/156 [pii]
+AID - 10.24875/GMM.19004582 [doi]
+PST - ppublish
+SO  - Gac Med Mex. 2019;155(2):156-161. doi: 10.24875/GMM.19004582.
+
+PMID- 30532124
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191003
+LR  - 20220410
+IS  - 0016-3813 (Print)
+IS  - 0016-3813 (Linking)
+VI  - 154
+IP  - Supp 2
+DP  - 2018
+TI  - [Indices para la evaluacion de la resistencia a la insulina en individuos
+      mexicanos sin diabetes].
+PG  - S50-S55
+LID - 10.24875/GMM.18004578 [doi]
+AB  - OBJECTIVE: To evaluate the correlation between subrogate index for the evaluation
+      of insulin resistance with the M value obtained with the
+      euglycemic-hyperinsulinemic clamp as well as their sensitivity, specificity, and 
+      positive and negative predictive values. METHOD: The euglycemic-hyperinsulinemic 
+      clamp was performed in subjects having both normal fasting glucose and glycated
+      hemoglobin concentrations. HOMA-IR, QUICKI, HOMA2%S, TyG, TyG*body mass index
+      (BMI) and triglyceride/HDL indexes were calculated. Correlations coefficients
+      were estimated between indexes results and the M-value adjusted by fat-free mass.
+      Areas under the ROC curve were constructed to evaluate overall performance,
+      sensitivity, specificity and predictive values of the subrogate indexes. RESULTS:
+      57 subjects, 68.4% women, with a mean age of 32.9 +/- 11 years-old were included.
+      The subrogate index with the best correlation with the M value was HOMA2%S (r =
+      0.428), HOMA-IR had the greatest area under the ROC curve (0.683; 95 % confidence
+      interval: 0.503-0.864) and TyG*BMI the best sensitivity (98.2 %) and specificity 
+      (51.1 %). CONCLUSIONS: The surrogated indexes for the evaluation of insulin
+      resistance show a significant correlation with the M value obtained with the gold
+      standard. Additional studies are required to determine cut-off values in Mexican 
+      population.
+CI  - Copyright: (c) 2018 SecretarIa de Salud.
+FAU - Almeda-Valdes, Paloma
+AU  - Almeda-Valdes P
+AD  - Departamento de Endocrinologia y Metabolismo, Ciudad de Mexico, Mexico.
+AD  - Unidad de Investigacion de Enfermedades Metabolicas. Instituto Nacional de
+      Ciencias Medicas y Nutricion Salvador Zubiran, Ciudad de Mexico, Mexico.
+FAU - Bello-Chavolla, Omar Y
+AU  - Bello-Chavolla OY
+AD  - Unidad de Investigacion de Enfermedades Metabolicas. Instituto Nacional de
+      Ciencias Medicas y Nutricion Salvador Zubiran, Ciudad de Mexico, Mexico.
+AD  - Programa PECEM, Facultad de Medicina, Universidad Nacional Autonoma de Mexico,
+      Ciudad de Mexico, Mexico.
+FAU - Caballeros-Barragan, Cesar R
+AU  - Caballeros-Barragan CR
+AD  - Departamento de Endocrinologia y Metabolismo, Ciudad de Mexico, Mexico.
+FAU - Gomez-Velasco, Donaji V
+AU  - Gomez-Velasco DV
+AD  - Unidad de Investigacion de Enfermedades Metabolicas. Instituto Nacional de
+      Ciencias Medicas y Nutricion Salvador Zubiran, Ciudad de Mexico, Mexico.
+FAU - Viveros-Ruiz, Tania
+AU  - Viveros-Ruiz T
+AD  - Unidad de Investigacion de Enfermedades Metabolicas. Instituto Nacional de
+      Ciencias Medicas y Nutricion Salvador Zubiran, Ciudad de Mexico, Mexico.
+FAU - Vargas-Vazquez, Arsenio
+AU  - Vargas-Vazquez A
+AD  - Unidad de Investigacion de Enfermedades Metabolicas. Instituto Nacional de
+      Ciencias Medicas y Nutricion Salvador Zubiran, Ciudad de Mexico, Mexico.
+AD  - Programa PECEM, Facultad de Medicina, Universidad Nacional Autonoma de Mexico,
+      Ciudad de Mexico, Mexico.
+FAU - Aguilar-Salinas, Carlos A
+AU  - Aguilar-Salinas CA
+AD  - Departamento de Endocrinologia y Metabolismo, Ciudad de Mexico, Mexico.
+AD  - Unidad de Investigacion de Enfermedades Metabolicas. Instituto Nacional de
+      Ciencias Medicas y Nutricion Salvador Zubiran, Ciudad de Mexico, Mexico.
+LA  - spa
+PT  - Journal Article
+PL  - Mexico
+TA  - Gac Med Mex
+JT  - Gaceta medica de Mexico
+JID - 0010333
+RN  - 0 (Blood Glucose)
+RN  - 0 (Glycated Hemoglobin A)
+RN  - 0 (HDL-triglyceride)
+RN  - 0 (Lipoproteins, HDL)
+RN  - 0 (Triglycerides)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Blood Glucose/*metabolism
+MH  - *Body Mass Index
+MH  - Cross-Sectional Studies
+MH  - Fasting
+MH  - Female
+MH  - Glucose Clamp Technique
+MH  - Glycated Hemoglobin A/*metabolism
+MH  - Humans
+MH  - Insulin Resistance/*physiology
+MH  - Lipoproteins, HDL/metabolism
+MH  - Male
+MH  - Mexico
+MH  - Middle Aged
+MH  - Predictive Value of Tests
+MH  - ROC Curve
+MH  - Sensitivity and Specificity
+MH  - Triglycerides/metabolism
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Euglycemic-hyperinsulinemic clamp
+OT  - HOMA-IR
+OT  - HOMA2%S
+OT  - Pinza euglucemica-hiperinsulinemica
+OT  - QUICKI
+OT  - TG/HDL index
+OT  - TyG index
+OT  - Indice TG/HDL
+OT  - Indice TyG
+EDAT- 2018/12/12 06:00
+MHDA- 2019/10/08 06:00
+CRDT- 2018/12/12 06:00
+PHST- 2018/12/12 06:00 [entrez]
+PHST- 2018/12/12 06:00 [pubmed]
+PHST- 2019/10/08 06:00 [medline]
+AID - j154/S2/S50 [pii]
+AID - 10.24875/GMM.18004578 [doi]
+PST - ppublish
+SO  - Gac Med Mex. 2018;154(Supp 2):S50-S55. doi: 10.24875/GMM.18004578.
+
+PMID- 29414963
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190130
+LR  - 20190130
+IS  - 0016-3813 (Print)
+IS  - 0016-3813 (Linking)
+VI  - 153
+IP  - 7
+DP  - 2017
+TI  - El papel de los acidos grasos libres en la resistencia a la insulina.
+PG  - 852-863
+LID - 10.24875/GMM.17002714 [doi]
+AB  - Free fatty acids are essential nutritional components and recent studies
+      identified them as signaling molecules in various physiological processes. It has
+      now been shown that high levels of free fatty acids, particularly saturated fatty
+      acids, may be associated with insulin resistance in obese patients with type 2
+      diabetes mellitus. Insulin resistance is important in clinical since it is
+      related to various diseases including type 2 diabetes mellitus, dyslipidemia, and
+      abnormalities at cardiovascular level. Recent studies have proposed different
+      molecular mechanisms by which these lipids may alter the signaling pathway of
+      insulin. The purpose of this review is to highlight recent advances in the study 
+      of the effect of free fatty acids as modulators of insulin response.
+CI  - Copyright: (c) 2017 SecretarIa de Salud.
+FAU - Vazquez-Jimenez, Jose Gustavo
+AU  - Vazquez-Jimenez JG
+AD  - Departamento de Fisiologia, Escuela de Medicina, Universidad Autonoma de Baja
+      California, Mexicali, B.C., Mexico.
+FAU - Roura-Guiberna, Adriana
+AU  - Roura-Guiberna A
+AD  - Laboratorio de Transduccion de Senales, Departamento de Bioquimica, Centro de
+      Investigacion y de Estudios Avanzados del Instituto Politecnico Nacional, Ciudad 
+      de Mexico, Mexico.
+FAU - Jimenez-Mena, Luisa Reyna
+AU  - Jimenez-Mena LR
+AD  - Laboratorio de Transduccion de Senales, Departamento de Bioquimica, Centro de
+      Investigacion y de Estudios Avanzados del Instituto Politecnico Nacional, Ciudad 
+      de Mexico, Mexico.
+FAU - Olivares-Reyes, Jesus Alberto
+AU  - Olivares-Reyes JA
+AD  - Laboratorio de Transduccion de Senales, Departamento de Bioquimica, Centro de
+      Investigacion y de Estudios Avanzados del Instituto Politecnico Nacional, Ciudad 
+      de Mexico, Mexico.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Mexico
+TA  - Gac Med Mex
+JT  - Gaceta medica de Mexico
+JID - 0010333
+RN  - 0 (Ceramides)
+RN  - 0 (Fatty Acids, Nonesterified)
+RN  - 0 (Insulin)
+RN  - 0 (Toll-Like Receptors)
+RN  - EC 2.7.- (Protein Kinases)
+SB  - IM
+MH  - Cardiovascular Diseases/etiology
+MH  - Ceramides/metabolism
+MH  - Diabetes Mellitus, Type 2/etiology
+MH  - Dyslipidemias/etiology
+MH  - Endoplasmic Reticulum Stress/physiology
+MH  - Fatty Acids, Nonesterified/*physiology
+MH  - Humans
+MH  - Insulin/*physiology
+MH  - Insulin Resistance/*physiology
+MH  - Obesity
+MH  - Oxidative Stress/physiology
+MH  - Protein Kinases/metabolism
+MH  - Toll-Like Receptors/metabolism
+OTO - NOTNLM
+OT  - Fatty acids
+OT  - Insulin receptor
+OT  - Insulin receptor substrate
+OT  - Insulin resistance
+EDAT- 2018/02/08 06:00
+MHDA- 2019/01/31 06:00
+CRDT- 2018/02/08 06:00
+PHST- 2018/02/08 06:00 [entrez]
+PHST- 2018/02/08 06:00 [pubmed]
+PHST- 2019/01/31 06:00 [medline]
+AID - j153/7/852 [pii]
+AID - 10.24875/GMM.17002714 [doi]
+PST - ppublish
+SO  - Gac Med Mex. 2017;153(7):852-863. doi: 10.24875/GMM.17002714.
+
+PMID- 25977105
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20150515
+LR  - 20150515
+IS  - 0873-2159 (Print)
+IS  - 0873-2159 (Linking)
+VI  - 13
+IP  - 4
+DP  - 2007 Jul-Aug
+TI  - Terapeutica clinica - Insulina inalada para a diabetes mellitus.
+PG  - 639-41
+LID - 10.1016/S0873-2159(15)30373-1 [doi]
+LID - S0873-2159(15)30373-1 [pii]
+FAU - McMahon, Graham T
+AU  - McMahon GT
+FAU - Arky, Ronald A
+AU  - Arky RA
+LA  - eng
+LA  - por
+PT  - Journal Article
+PL  - Spain
+TA  - Rev Port Pneumol
+JT  - Revista portuguesa de pneumologia
+JID - 9813736
+EDAT- 2007/07/01 00:00
+MHDA- 2007/07/01 00:01
+CRDT- 2015/05/16 06:00
+PHST- 2015/05/16 06:00 [entrez]
+PHST- 2007/07/01 00:00 [pubmed]
+PHST- 2007/07/01 00:01 [medline]
+AID - S0873-2159(15)30373-1 [pii]
+AID - 10.1016/S0873-2159(15)30373-1 [doi]
+PST - ppublish
+SO  - Rev Port Pneumol. 2007 Jul-Aug;13(4):639-41. doi: 10.1016/S0873-2159(15)30373-1.
