@@ -27,3 +27,35 @@
 </table>
 import miningscience_g01 as msc
 ?msc
+karla = download_pubmed ("Diabetes")
+print ("El número de articulos para Diabetes es: ", len(karla))
+
+andrea = (download_pubmed ("Insulina"))
+print ("El número articulos para Insulina es: ", len(andrea))
+science_plots("Diabetes.txt")
+
+science_plots("Insulina.txt")
+* La Keyword que escogi en la primera descarga es Diabetes. En donde se obtuvo un resultado de  20 articulos. Se puede observar que los 5 paises en donde el estudio de la glucosa es mas abudante son China, Japon, UK, Italia y USA. 
+
+* Para la segunda descarga la palabra que escogi fue Insulina, la cual puede ayuadar a regular la glucosa en el cuerpo, para la busqueda de algun farmaco los paises que mas aportaan son Mexico, Suiza,Peru,Brasil y España.
+from Bio import Phylo
+from Bio import SeqIO
+from Bio import AlignIO
+from Bio.Phylo.TreeConstruction import DistanceCalculator
+from Bio.Phylo.TreeConstruction import DistanceTreeConstructor
+from Bio import Entrez
+import re
+import os 
+from Bio.Align.Applications import ClustalwCommandline
+
+#f = open ("sequence.seq", "r")
+with open("sequence.txt") as f:
+    data = f.readlines()[0:15]
+#print (data)
+out_sequence = open("sequence.txt", "w")
+for linea in data:  
+    Entrez.email="karla.sevillano@est.ikiam.edu.ec"
+    handle=Entrez.efetch(db="nucleotide" ,id=linea ,rettype="fasta", retmode="text")
+    data=(handle.read())
+    out_sequence.write(data)
+out_sequence.close()
